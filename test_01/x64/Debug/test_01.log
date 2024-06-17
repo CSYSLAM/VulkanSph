@@ -1,0 +1,6 @@
+﻿  application.cpp
+  main.cpp
+  正在生成代码...
+D:\cg\vulkan\temp\csy_cpp_vulkan\csySph\test_01\application.cpp(543): warning C4715: “SPH::Application::findMemoryType”: 不是所有的控件路径都返回值
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  test_01.vcxproj -> D:\cg\vulkan\temp\csy_cpp_vulkan\csySph\x64\Debug\test_01.exe
